@@ -1,5 +1,6 @@
 body{
-    /*background:pink;*/
+    background:pink;
+    font-family: Arial, Helvetica, sans-serif;
     /*Nah I like the font the way it is*/
 }
 
@@ -7,6 +8,7 @@ body{
     display:flex;
     padding:10px;
     margin:10px;
+    background: lightgray;
 }
 
 .assignment img {
